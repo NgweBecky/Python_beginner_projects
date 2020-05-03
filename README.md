@@ -1,2 +1,2 @@
-# Rock_papper_scissor_game
+# Pyhton Projects
 This repository contains python beginner projects
